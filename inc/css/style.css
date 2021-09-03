@@ -1,0 +1,71 @@
+/**** polices ****/
+@font-face{
+	font-family: "Soria";
+	src: url("../polices/Soria.ttf");
+}
+@font-face{
+	font-family: "Cabrion";
+	src: url("../polices/Cabrion.otf");
+}
+@font-face{
+	font-family: "Aliandra";
+	src: url("../polices/Aliandra.ttf");
+}
+/**** all ****/
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+    margin-top: 60px;
+	font-family: "Cabrion", "Times New Roman", serif;
+} 
+h1, h2, h3, h4{
+	text-align: center;
+	font-family: "Soria";
+}
+html{
+    min-height: 100vh;
+    position: relative;
+    padding: 56px 0;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+}
+#logo{
+max-width:160px;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+    margin-top: 0;
+}
+.lead{
+    font-weight: bold;
+}
+.iconephoto{
+    font-size: 3rem;
+    cursor: pointer;
+}
+.vignette{
+    max-width: 30%;
+}
+#bandeaucookies{
+    position: fixed;
+    bottom: -70px;
+}
+#about{
+    text-align: center;
+    vertical-align: center;
+}
+#about_me{
+    box-shadow : 4px 4px 4px grey;
+}
+/**** media ****/
+@media screen and (max-width:720px){
+    .vignette {
+        max-width: 100%;
+    }
+}
