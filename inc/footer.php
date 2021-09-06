@@ -7,7 +7,7 @@ else $url = 'https://www.jleforestier.fr/Room/';
 <footer class="container-fluid">
     <div class="row">
         <div class="bg-light text-center py-3 w-100">
-            &copy; <?php echo date('Y') ?> - Juste Un Moment - Tous droits réservés
+            &copy; <?php echo date('Y') ?> - Juste Un Moment - Tous droits réservés - <a href="https://www.facebook.com/profile.php?id=100063601297728" class="fab fa-facebook" target="_blank"></a> <a href="https://www.instagram.com/justeunmomentphotographie/" class="fab fa-instagram-square" target="_blank"></a>
         </div>
     </div>
 </footer>

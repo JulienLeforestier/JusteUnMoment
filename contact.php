@@ -8,8 +8,22 @@ require_once('inc/header.php');
 ?>
 
 <div class="col-md-10 offset-1">
-    <a href="https://www.facebook.com/profile.php?id=100063601297728" id="fb" target="_blank">&nbsp;f&nbsp;&nbsp;</a>
+
 </div>
 
 <?php
 require_once('inc/footer.php');
+
+
+// <?php 
+// ini_set( 'display_errors', 1 );
+// error_reporting( E_ALL );
+// $from = "nuxit@jleforestier.fr";
+// $to = "aladin.dahra@nuxit.com";
+// $subject = "PHP Mail Test script";
+// $message = "This is a test to check the PHP Mail functionality";
+// $headers = "From:" . $from;
+// mail($to,$subject,$message, $headers);
+// echo "Test email sent";
+
+// justeunmomentphotographie@gmail.com
