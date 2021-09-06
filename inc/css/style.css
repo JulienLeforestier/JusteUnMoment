@@ -34,7 +34,7 @@ footer{
     bottom: 0;
 }
 #logo{
-max-width:160px;
+    max-width: 160px;
 }
 .dropdown:hover .dropdown-menu{
     display: block;
@@ -42,26 +42,19 @@ max-width:160px;
 .dropdown-menu{
     margin-top: 0;
 }
-.lead{
-    font-weight: bold;
-}
-.iconephoto{
-    font-size: 3rem;
-    cursor: pointer;
-}
-.vignette{
-    max-width: 30%;
-}
 #bandeaucookies{
     position: fixed;
     bottom: -70px;
 }
-#about{
+.manual-center{
     text-align: center;
-    vertical-align: center;
 }
 #about_me{
-    box-shadow : 4px 4px 4px grey;
+    box-shadow: 4px 4px 4px grey;
+}
+.galeries img{
+    border: 3px solid white;
+    max-width: 33%;
 }
 /**** media ****/
 @media screen and (max-width:720px){

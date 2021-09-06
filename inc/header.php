@@ -45,7 +45,7 @@ if (preg_match('#^localhost$#', $_SERVER['HTTP_HOST'])) {
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link" data-toggle="dropdown">Galeries</a>
                             <div class="dropdown-menu">
-                                <a href="<?php echo URL ?>maternity.php" class="dropdown-item">Maternités</a>
+                                <a href="<?php echo URL ?>maternity.php" class="dropdown-item">Maternité</a>
                                 <a href="<?php echo URL ?>newborns.php" class="dropdown-item">Nouveaux-nés</a>
                                 <a href="<?php echo URL ?>babies.php" class="dropdown-item">Bébés</a>
                             </div>

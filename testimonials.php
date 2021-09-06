@@ -8,12 +8,12 @@ require_once('inc/header.php');
 ?>
 
 <div class="container-fluid justify-content-center">
-    <h2>Quand vous prenez le temps de nous envoyer vos retours</h2>
+    <h2>Quelques retours des familles</h2>
     <div class="container-fluid justify-content-center mt-3">
-        <div id="myTeasers" class="row col-lg-12 justify-content-center">
-            <div class="card mt-2">
+        <div id="testimonials" class="row">
+            <div class="card m-2 col-md-5">
                 <div class="card-body">
-                    <h4 class="card-title">La famille Chamon-Benneteu : Eve, Anthony, Margaux et Albane</h4>
+                    <h4 class="card-title">La famille Chamon-Benneteu :<br>Eve, Anthony, Margaux et Albane</h4>
                     <p class="card-text">
                     "J'ai découvert le travail d'Anne-Laure grâce à une amie qui avait fait une séance photo avec elle et j'avais adoré le résultat : 
                     des photos douces et naturelles. C'est exactement ce que je souhaitais pour immortaliser ma grossesse puis les premiers jours de vie de ma fille. 
@@ -24,13 +24,13 @@ require_once('inc/header.php');
                     </p>
                 </div>
             </div>
-            <div class="card mt-2">
+            <div class="card m-2 col-md-5">
                 <div class="card-body">
-                    <h4 class="card-title">Amandine, David, Emmi et Léandre </h4>
+                    <h4 class="card-title">Amandine, David, Emmi et Léandre</h4>
                     <p class="card-text">
                     "Un formidable moment avec Anne-Laure !
                     Nous avons vécu une séance nouveau né - famille.
-                    Elle été très à l'écoute de nos envies et de nos préférences. Nous qui ne sommes pas très à l'aise avec les postures posées, et avec en plus la difficulté liée à la présence parfois énergique de notre petite puce de 2ans, elle su nous proposer des alternatives plus naturelles pour nous, le tout dans la simplicité et la bonne humeur.
+                    Elle été très à l'écoute de nos envies et de nos préférences. Nous qui ne sommes pas très à l'aise avec les postures posées, et avec en plus la difficulté liée à la présence parfois énergique de notre petite puce de 2ans, elle a su nous proposer des alternatives plus naturelles pour nous, le tout dans la simplicité et la bonne humeur.
                     Nous sommes ravis du résultat !
                     D'autant plus que nous avons eu la surprise de recevoir très vite nos clichés pour la conception de notre faire part !
                     Merci pour tout !"

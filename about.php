@@ -7,9 +7,9 @@ require_once('inc/header.php');
 // corps de la page
 ?>
 
-<div class="container-fluid justify-content-center" id="about">
+<div class="container-fluid justify-content-center manual-center">
     <div class="col-md-10 offset-md-1">
-        <img src="<?php echo URL . 'photos/a_propos/0035_ANNE-L-LISE-GARGUIL-PHOTO-035_WEB.jpg' ?>" alt="about_me" id="about_me" class="w-75">
+        <img src="photos/a_propos/0035_ANNE-L-LISE-GARGUIL-PHOTO-035_WEB.jpg" alt="about_me" id="about_me" class="w-75">
         <div class="mt-3">
             <p>Un peu de moi :</p>
             <p>J’aime les choses simples, douces et épurées.</p>
