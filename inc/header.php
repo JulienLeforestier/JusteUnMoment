@@ -39,7 +39,7 @@ if (preg_match('#^localhost$#', $_SERVER['HTTP_HOST'])) {
                         <a class="nav-link" href="<?php echo URL ?>">Accueil<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item <?php echo ($title == 'À propos de moi') ? 'active' : '' ?>">
-                        <a class="nav-link" href="<?php echo URL ?>about.php">À propos</a>
+                        <a class="nav-link" href="<?php echo URL ?>about.php">À propos de moi</a>
                     </li>
                     <li class="nav-item">
                         <div class="nav-item dropdown">

@@ -42,7 +42,6 @@ require_once('inc/header.php');
     <img src="photos/maternite/Emmanuelle68_p.jpg" alt="Emmanuelle68_p">
     <img src="photos/maternite/Camille33_p.jpg" alt="Camille33_p">
     <img src="photos/maternite/Camille30_p.jpg" alt="Camille30_p">
-    <img src="photos/maternite/Alexandra37_p.jpg" alt="Alexandra37_p">
     <img src="photos/maternite/Alexandra21_p.jpg" alt="Alexandra21_p">
     <img src="photos/maternite/17_p.jpg" alt="maternite_17_p">
     <img src="photos/maternite/18_p.jpg" alt="maternite_18_p">

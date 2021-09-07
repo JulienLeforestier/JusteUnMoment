@@ -34,7 +34,6 @@ require_once('inc/header.php');
     <img src="photos/bebe/Paul13.jpg" alt="Paul13">
     <img src="photos/bebe/Syndel_et_Aaron7.jpg" alt="Syndel_et_Aaron7">
     <img src="photos/bebe/Solal_et_Lisa7.jpg" alt="Solal_et_Lisa7">
-    <img src="photos/bebe/Robin_et_Milo45_p.jpg" alt="Robin_et_Milo45_p">
     <img src="photos/bebe/Paul40_p.jpg" alt="Paul40_p">
     <img src="photos/bebe/Gabriel31_p.jpg" alt="Gabriel31_p">
     <img src="photos/bebe/Louve23_p.jpg" alt="Louve23_p">

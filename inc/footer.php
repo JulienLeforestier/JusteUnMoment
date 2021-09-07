@@ -1,8 +1,3 @@
-<?php
-if (preg_match('#^localhost$#', $_SERVER['HTTP_HOST'])) $url = '/workspacevsc/room/';
-else $url = 'https://www.jleforestier.fr/Room/';
-?>
-
 </main>
 <footer class="container-fluid">
     <div class="row">

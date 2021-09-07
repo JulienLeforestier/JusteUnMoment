@@ -17,7 +17,7 @@ require_once('inc/header.php');
             à choisir sur votre galerie privée. Les photos choisies vous seront envoyées via un lien de téléchargement.</p>
         </div>
         <div class="col-md-6">
-            <img src="photos/nouveau_ne/Elise16_p.jpg" alt="Elise16_p" class="w-50">
+            <img src="photos/nouveau_ne/Paul8.jpg" alt="Paul8" class="w-50">
         </div>
     </div>
     <hr>

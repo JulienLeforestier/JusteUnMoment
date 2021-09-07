@@ -47,7 +47,6 @@ require_once('inc/header.php');
     <img src="photos/nouveau_ne/Paco20.jpg" alt="Paco20">
     <img src="photos/nouveau_ne/Paco26.jpg" alt="Paco26">
     <img src="photos/nouveau_ne/Paco44.jpg" alt="Paco44">
-    <img src="photos/nouveau_ne/Paul8.jpg" alt="Paul8">
     <img src="photos/nouveau_ne/Paul25.jpg" alt="Paul25">
     <img src="photos/nouveau_ne/Paul42.jpg" alt="Paul42">
     <img src="photos/nouveau_ne/Raphael17.jpg" alt="Raphael17">
